@@ -51,7 +51,7 @@ Welcome to our Real-Time Chat Android Application! This mobile messaging platfor
 ## 📱 Installation
 
 1. Download the APK file from our official sources:
-   - [Download APK](./assets/apk/app-debug.apk)
+   - [Download APK](https://www.mediafire.com/file/7acyxs5grs88v25/ManishChatApp.apk/file)
    - Google Play Store (Coming Soon)
 
 2. Enable "Install from Unknown Sources" in your Android settings
